@@ -1,0 +1,15 @@
+h1{
+    font-style: italic;
+}
+body{
+    background-color: peachpuff;
+}
+h2{
+    color: brown;
+    text-decoration: underline;
+}
+button{
+    background-color: brown;
+    font-size: 120%;
+    color: white;
+}
